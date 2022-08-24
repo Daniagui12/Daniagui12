@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+[![Stats](https://github-readme-stats.vercel.app/api?username=WilliamMendez&show_icons=true&theme=algolia)](https://github.com/Daniagui12/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniagui12&layout=compact&theme=algolia)](https://github.com/Daniagui12/github-readme-stats)
 <!--
 **Daniagui12/Daniagui12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
