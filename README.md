@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Stats](https://github-readme-stats.vercel.app/api?username=Daniagui12&show_icons=true&theme=algolia)](https://github.com/Daniagui12/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Daniagui12&show_icons=true&theme=city_lights)](https://github.com/Daniagui12/github-readme-stats)
 <br>
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniagui12&layout=compact&theme=algolia)](https://github.com/Daniagui12/github-readme-stats)
 <!--
